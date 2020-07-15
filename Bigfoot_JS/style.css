@@ -1,0 +1,9 @@
+body {
+  background-image: url(/forest.jpg);
+}
+
+#bigFoot {
+  position: absolute;
+  left: 125px;
+  top: 200px;
+}
